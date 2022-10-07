@@ -1,0 +1,5 @@
+---
+applications:
+  - name: IIC
+    route: icc-middleware.myblumix.net
+    memory: 256M

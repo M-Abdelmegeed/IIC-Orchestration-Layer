@@ -1,0 +1,60 @@
+{
+  "residents": [
+    {
+      "unitNumber": "C01",
+      "phone": "+201091720988",
+      "username": "yasser",
+      "email": "yasser.emam@ibm.com",
+      "password": "$2a$11$ztQDNuw1M/dsmvdgOO7Fgu3XJuKbuxmEoDRqzpytCC1s5MbSSwHZu"
+    },
+    {
+      "unitNumber": "C02",
+      "phone": "+201128816040",
+      "username": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "unitNumber": "C03",
+      "phone": "+201013133110",
+      "username": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "unitNumber": "C04",
+      "phone": "+201221171660",
+      "username": "megz",
+      "email": "m.maguid9@hotmail.com",
+      "password": "$2a$11$66fqe4TzWlbLOvOogB5Lq.5TNh/PgRjo29TgfRagLKjFsvjplg.tS"
+    },
+    {
+      "unitNumber": "C05",
+      "phone": "+201122586689",
+      "username": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "unitNumber": "C06",
+      "phone": "+201129093973",
+      "username": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "unitNumber": "C07",
+      "phone": "+201125401805",
+      "username": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "unitNumber": "C08",
+      "phone": "+201151447681",
+      "username": "",
+      "email": "",
+      "password": ""
+    }
+  ]
+}
